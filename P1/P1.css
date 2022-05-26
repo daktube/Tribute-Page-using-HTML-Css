@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    margin: 30px auto;
+    padding: 20px;
+    height: 100%;
+    width: 50%;
+}
+
+#main p {
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+    background-color: lightsalmon;
+}
+
+h1 {
+    background-color: azure;
+    color: red;
+    text-align: center;
+    border-radius: 250px;
+}
+
+img {
+    border-radius: 50px;
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: auto auto;
+    width: 50%;
+}
+
+#img figcaption {
+    text-align: center;
+}
+
+#info {
+    background-color: burlywood;
+    text-align: center;
+}
+
+#info ol {
+    background-color: lightblue;
+    text-align: left;
+    padding-left: 1em;
+}
+
+i {
+    padding: 5px;
+}
+
+#info ul li h3 {
+    text-align: left;
+    list-style-type: none;
+}
+
+footer {
+    text-align: center;
+}
+
+#past li {
+    text-align: left;
+    list-style: none;
+    background-color: lightblue;
+}
+
+#past h3 {
+    background-color: burlywood;
+}
+
+a:hover {
+    background-color: red;
+}
